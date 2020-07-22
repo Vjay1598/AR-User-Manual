@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="pro2" targetId="42632c039e554995a5795493fddb9894" version="11.0" toolVersion="3.0.0" bbox="-179.500061 0.000006 -131.446228 179.500031 253.794922 123.500023" previewImage="42632c039e554995a5795493fddb9894_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="pro2s_assembly" assemblyId="0ea62f4d7b884fe98867c73e03c2542e">
+<Part name="pro2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00691835 101.623 580.486" rotation="AD: 1 -0.000002711753253628971 0.00008605141504472704 183.61" image="pro2_viewpoint_0000.png">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

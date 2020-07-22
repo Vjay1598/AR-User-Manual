@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{C417168F-ECD2-E35F-A1D8-53BC63003CFC}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/OpennHonorPlay.cs">
+    <Files>
+      <File FileName="Assets/Vuforia/Scripts/BoundingBoxRenderer.cs" Line="95" Column="1" />
+      <File FileName="Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" Line="125" Column="1" />
+      <File FileName="Assets/MoreInfoPower.cs" Line="1" Column="1" />
+      <File FileName="Assets/OpennApplication.cs" Line="14" Column="1" />
+      <File FileName="Assets/BackMenu.cs" Line="10" Column="39" />
+      <File FileName="Assets/OpennOnePlus.cs" Line="8" Column="4" />
+      <File FileName="Assets/LoudSpeaker.cs" Line="19" Column="1" />
+      <File FileName="Assets/OpennHonorPlay.cs" Line="10" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.VuforiaEditorScripts PreferredExecutionTarget="Unity.Editor" />
+</Properties>

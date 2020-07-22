@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="iphonne" targetId="ca3c924adb5545b1ac12b0f0939f7bb2" version="11.0" toolVersion="3.0.0" bbox="-0.985616 -0.135775 -2.091220 1.008136 0.134778 2.080980" previewImage="ca3c924adb5545b1ac12b0f0939f7bb2_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="iphonnes_assembly" assemblyId="a6ba945d297f4766bdb4ac1b4492e487">
+<Part name="iphonne" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0518935 -0.091253 4.87692" rotation="AD: -0.9999999994716751 -0.006875223243361631 0.006749258830953537 88.9432" image="iphonne_viewpoint_0000.png">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

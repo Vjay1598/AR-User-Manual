@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/StartMenuScene.unity
+    guid: 19e653d1035af4e2bb013ddeb3234e52
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: ebfa5e0e66f474fc89576b37b0025d6b
+  - enabled: 1
+    path: Assets/OnePlus.unity
+    guid: 3aea7a2dca90c4d54b8cecd8f271939a
+  - enabled: 1
+    path: Assets/HonorPlay.unity
+    guid: 619ac3f5f48354a78ab0dc563eebd384
+  m_configObjects: {}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="7.0.0">
+<ModelTarget name="cube" targetId="67cba0b65cf241c8a93ce34f1501d006" version="11.0" toolVersion="3.0.0" bbox="-507.063721 -507.575592 -508.819641 104.500000 104.500000 104.500000" previewImage="67cba0b65cf241c8a93ce34f1501d006_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="cubes_assembly" assemblyId="530e910436b648a2904ba7d79a3228a9">
+<Part name="cube" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-197.224 -263.198 1821.14" rotation="AD: -0.9995535976995087 -0.04198651246015037 1.0140629803497883 176.672" image="cube_viewpoint_0001.png">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

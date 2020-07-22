@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="iphonne"/>
+
+</Tracking>
+
+<Assembly name="iphonnes_assembly" assemblyId="a6ba945d297f4766bdb4ac1b4492e487">
+<Part name="iphonne" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.0518935 -0.091253 4.87692" rotation="AD: -0.9999999994716751 -0.006875223243361631 0.006749258830953537 88.9432">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

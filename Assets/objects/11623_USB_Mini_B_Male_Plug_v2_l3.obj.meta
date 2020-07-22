@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 6fafc35a18dd445d09b439c88182ac18
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: USB_Mini_B_Male_Plug_a
+    100004: USB_Mini_B_Male_Plug_connector_002
+    100006: USB_Mini_B_Male_Plug_connector_003
+    100008: USB_Mini_B_Male_Plug_connector_004
+    100010: USB_Mini_B_Male_Plug_connector_005
+    100012: USB_Mini_B_Male_Plug_connector_1
+    100014: USB_Mini_B_Male_Plug_cord
+    100016: USB_Mini_B_Male_Plug_metal
+    100018: USB_Mini_B_Male_Plug_Plastic_Black
+    400000: //RootNode
+    400002: USB_Mini_B_Male_Plug_a
+    400004: USB_Mini_B_Male_Plug_connector_002
+    400006: USB_Mini_B_Male_Plug_connector_003
+    400008: USB_Mini_B_Male_Plug_connector_004
+    400010: USB_Mini_B_Male_Plug_connector_005
+    400012: USB_Mini_B_Male_Plug_connector_1
+    400014: USB_Mini_B_Male_Plug_cord
+    400016: USB_Mini_B_Male_Plug_metal
+    400018: USB_Mini_B_Male_Plug_Plastic_Black
+    2100000: USB_Mini_B_Male_Plug_aMat
+    2100002: USB_Mini_B_Male_Plug_connector_002Mat
+    2100004: USB_Mini_B_Male_Plug_connector_003Mat
+    2100006: USB_Mini_B_Male_Plug_connector_004Mat
+    2100008: USB_Mini_B_Male_Plug_connector_005Mat
+    2100010: USB_Mini_B_Male_Plug_connector_1Mat
+    2100012: USB_Mini_B_Male_Plug_cordMat
+    2100014: USB_Mini_B_Male_Plug_metalMat
+    2100016: USB_Mini_B_Male_Plug_Plastic_BlackMat
+    2300000: USB_Mini_B_Male_Plug_a
+    2300002: USB_Mini_B_Male_Plug_connector_002
+    2300004: USB_Mini_B_Male_Plug_connector_003
+    2300006: USB_Mini_B_Male_Plug_connector_004
+    2300008: USB_Mini_B_Male_Plug_connector_005
+    2300010: USB_Mini_B_Male_Plug_connector_1
+    2300012: USB_Mini_B_Male_Plug_cord
+    2300014: USB_Mini_B_Male_Plug_metal
+    2300016: USB_Mini_B_Male_Plug_Plastic_Black
+    3300000: USB_Mini_B_Male_Plug_a
+    3300002: USB_Mini_B_Male_Plug_connector_002
+    3300004: USB_Mini_B_Male_Plug_connector_003
+    3300006: USB_Mini_B_Male_Plug_connector_004
+    3300008: USB_Mini_B_Male_Plug_connector_005
+    3300010: USB_Mini_B_Male_Plug_connector_1
+    3300012: USB_Mini_B_Male_Plug_cord
+    3300014: USB_Mini_B_Male_Plug_metal
+    3300016: USB_Mini_B_Male_Plug_Plastic_Black
+    4300000: USB_Mini_B_Male_Plug_a
+    4300002: USB_Mini_B_Male_Plug_connector_002
+    4300004: USB_Mini_B_Male_Plug_connector_003
+    4300006: USB_Mini_B_Male_Plug_connector_004
+    4300008: USB_Mini_B_Male_Plug_connector_005
+    4300010: USB_Mini_B_Male_Plug_connector_1
+    4300012: USB_Mini_B_Male_Plug_cord
+    4300014: USB_Mini_B_Male_Plug_metal
+    4300016: USB_Mini_B_Male_Plug_Plastic_Black
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
